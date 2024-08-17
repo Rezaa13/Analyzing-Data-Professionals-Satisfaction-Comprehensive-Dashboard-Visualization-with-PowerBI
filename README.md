@@ -17,12 +17,12 @@ The database contains 630 rows with 30 attributes. So, we can get almost any inf
 
 - Step 3: It was observed that in none of the columns errors & empty values were present.
 
-- Step 4: Created a model view and relationships between columns.
+- Step 4: I Created a model view and relationships between columns.
 - Step 5: In the report view, I tried to summarize the situation of data professionals nowadays by providing real-life information.
 
-- Step 6: Since the data contains various ratings, thus in order to represent ratings, interactive charts were presented in the visualizations pane in the report view. 
+- Step 6: Since the data contains various ratings, interactive charts were presented in the visualizations pane in the report view to represent ratings. 
 
-- Step 7: A bar chart was also added to the report design area representing the number of satisfied & neutral/unsatisfied professionals. While creating this visual, a field named "Gender" was also added to the Legends bucket, the number of professionals is also segregated according the gender.
+- Step 7: A bar chart was also added to the report design area representing the number of satisfied & neutral/unsatisfied professionals. While creating this visual, a field named "Gender" was also added to the Legends bucket, the number of professionals is also segregated according to gender.
 
 
 
